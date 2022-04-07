@@ -1,0 +1,26 @@
+[28-Apr-2021 12:26:37 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/hashorg/public_html/casthost/whmcs/get_product_price.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/hashorg/public_html/casthost/whmcs/get_product_price.php on line 6
+[28-Apr-2021 12:27:00 UTC] PHP Warning:  Illegal string offset 'product' in /home/hashorg/public_html/casthost/whmcs/get_product_price.php on line 6
+[28-Apr-2021 12:39:15 UTC] PHP Parse error:  syntax error, unexpected '$dkey' (T_VARIABLE), expecting ',' or ';' in /home/hashorg/public_html/casthost/whmcs/get_product_price.php on line 9
+[28-Apr-2021 12:43:05 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/hashorg/public_html/casthost/whmcs/get_product_price.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/hashorg/public_html/casthost/whmcs/get_product_price.php on line 10
+[28-Apr-2021 12:43:13 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/hashorg/public_html/casthost/whmcs/get_product_price.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/hashorg/public_html/casthost/whmcs/get_product_price.php on line 10
+[28-Apr-2021 12:50:27 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/hashorg/public_html/casthost/whmcs/get_product_price.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/hashorg/public_html/casthost/whmcs/get_product_price.php on line 10
+[28-Apr-2021 13:11:23 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/hashorg/public_html/casthost/whmcs/get_product_price.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/hashorg/public_html/casthost/whmcs/get_product_price.php on line 10
+[28-Apr-2021 13:11:24 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/hashorg/public_html/casthost/whmcs/get_product_price.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/hashorg/public_html/casthost/whmcs/get_product_price.php on line 10
